@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{1E20B2D5-6DE1-4EA3-A628-E785513B9602}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>estructuras_de_control.mayor_x_posicion</StartupObject>
+    <StartupObject>estructuras_de_control._2_08_dias_meses</StartupObject>
     <RootNamespace>estructuras_de_control</RootNamespace>
     <AssemblyName>estructuras_de_control</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -68,9 +68,14 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="mayor_menor.vb" />
-    <Compile Include="mayor_x_posicion.vb" />
-    <Compile Include="menor_de_3.vb" />
+    <Compile Include="2_01_mayor_menor.vb" />
+    <Compile Include="2_03_mayor_x_posicion.vb" />
+    <Compile Include="2_02_menor_de_3.vb" />
+    <Compile Include="2_04_productos_descuento.vb" />
+    <Compile Include="2_05_meses.vb" />
+    <Compile Include="2_06_descto.vb" />
+    <Compile Include="2_07_Angulos.vb" />
+    <Compile Include="2_08_dias_meses.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
