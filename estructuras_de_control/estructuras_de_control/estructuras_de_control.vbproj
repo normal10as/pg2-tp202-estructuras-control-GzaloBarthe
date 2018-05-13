@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{1E20B2D5-6DE1-4EA3-A628-E785513B9602}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>estructuras_de_control._2_10_bucles</StartupObject>
+    <StartupObject>estructuras_de_control._2_14_vta_productos</StartupObject>
     <RootNamespace>estructuras_de_control</RootNamespace>
     <AssemblyName>estructuras_de_control</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -78,6 +78,10 @@
     <Compile Include="2_08_dias_meses.vb" />
     <Compile Include="2_09_conversiones.vb" />
     <Compile Include="2_10_bucles.vb" />
+    <Compile Include="2_11_par_impar.vb" />
+    <Compile Include="2_12_fibonacci.vb" />
+    <Compile Include="2_13_primos.vb" />
+    <Compile Include="2_14_vta_productos.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
